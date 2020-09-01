@@ -11,5 +11,3 @@ The firmware is released under a GPL3.0 license. The PCB layouts and schematics 
 
 To build code and flash a blank 644p:
 make -f module_tester/makefile bootstrap
-
-this is a test
